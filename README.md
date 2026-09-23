@@ -66,7 +66,7 @@ Skip `mkdir build` if the directory exists. Keep the repository root as your wor
 <details>
 <summary><strong>Using Visual Studio Code</strong></summary>
 <ol>
-<li>Open the folder containing `src/`, `images/`, and `lib/` as the workspace.</li>
+<li>Open the folder containing <code>`src/`</code>, <code>`images/`</code>, and <code>`lib/`</code> as the workspace.</li>
 <li>Select an installed JDK and open the integrated terminal.</li>
 <li>Run the commands above.</li>
 <li>If using a launch configuration, set `Game` as the main class and the repository root as the working directory.</li>
